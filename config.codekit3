@@ -43,7 +43,7 @@
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/css/bulma.css",
 		"oF": 3,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/bulma-0.8.0/CHANGELOG.md": {
@@ -82,6 +82,145 @@
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/css/bulma.css.map",
 		"oF": 1
+		},
+	"/bulma-0.8.0/custom.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bulma-0.8.0/fonts-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/fonts-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bulma-0.8.0/fonts.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/fonts-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bulma-0.8.0/images/Blockchain-for-Gamers 1.png": {
+		"ft": 32768,
+		"iS": 39361,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/Blockchain-for-Gamers 1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/bugs.png": {
+		"ft": 32768,
+		"iS": 156186,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/bugs.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/Crypto + Salad 1.png": {
+		"ft": 32768,
+		"iS": 75690,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/Crypto + Salad 1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/faqs.png": {
+		"ft": 32768,
+		"iS": 9895,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/faqs.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/home-feature.png": {
+		"ft": 32768,
+		"iS": 450937,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/home-feature.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/Mining-Safe-for-GPUs 1.png": {
+		"ft": 32768,
+		"iS": 14812,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/Mining-Safe-for-GPUs 1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/roadmap.png": {
+		"ft": 32768,
+		"iS": 21023,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/roadmap.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/salad-works.png": {
+		"ft": 32768,
+		"iS": 1581108,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/salad-works.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/SaladLockup-MediumGreenBg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/SaladLockup-MediumGreenBg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/bulma-0.8.0/images/team.png": {
+		"ft": 32768,
+		"iS": 1427652,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/team.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/bulma-0.8.0/LICENSE": {
 		"cB": 0,
@@ -349,6 +488,19 @@
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/sass/components/tabs.css",
 		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"/bulma-0.8.0/sass/custom.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bulma-0.8.0/sass/custom.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -815,36 +967,76 @@
 		"oAP": "/contact.html",
 		"oF": 0
 		},
-	"/fonts/181112101001SharpGroteskBook.eot": {
+	"/fonts/181112101108SharpGroteskBook09.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/fonts/181112101001SharpGroteskBook.eot",
+		"oAP": "/fonts/181112101108SharpGroteskBook09.eot",
 		"oF": 0
 		},
-	"/fonts/181112101001SharpGroteskBook.woff": {
+	"/fonts/181112101108SharpGroteskBook09.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/fonts/181112101001SharpGroteskBook.woff",
+		"oAP": "/fonts/181112101108SharpGroteskBook09.woff",
 		"oF": 0
 		},
-	"/fonts/181112101046SharpGroteskLight25.eot": {
+	"/fonts/181112101108SharpGroteskBook09.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/fonts/181112101046SharpGroteskLight25.eot",
+		"oAP": "/fonts/181112101108SharpGroteskBook09.woff2",
 		"oF": 0
 		},
-	"/fonts/181112101046SharpGroteskLight25.woff": {
+	"/fonts/181112101108SharpGroteskBook19.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/fonts/181112101046SharpGroteskLight25.woff",
+		"oAP": "/fonts/181112101108SharpGroteskBook19.eot",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskBook19.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskBook19.woff",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskBook19.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskBook19.woff2",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskBook25.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskBook25.eot",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskBook25.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskBook25.woff",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskBook25.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskBook25.woff2",
 		"oF": 0
 		},
 	"/fonts/181112101108SharpGroteskLight09.eot": {
@@ -861,6 +1053,30 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/fonts/181112101108SharpGroteskLight09.woff",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskLight25.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskLight25.eot",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskLight25.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskLight25.woff",
+		"oF": 0
+		},
+	"/fonts/181112101108SharpGroteskLight25.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/181112101108SharpGroteskLight25.woff2",
 		"oF": 0
 		},
 	"/fonts/Icon\r": {
@@ -897,6 +1113,17 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/main.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/main-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/README.md": {
 		"cB": 0,

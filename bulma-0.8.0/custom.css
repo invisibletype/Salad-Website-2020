@@ -1,0 +1,14 @@
+.has-background-green-dark {
+  background-color: #1f5123; }
+
+.has-background-green-medium {
+  background-color: #53a626; }
+
+.has-background-green-light {
+  background-color: #dbf1c1; }
+
+.has-background-blue-dark {
+  background-color: #0a2133; }
+
+.has-background-none {
+  background-color: none !important; }

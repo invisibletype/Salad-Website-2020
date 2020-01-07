@@ -1,0 +1,1 @@
+for(var carousels=bulmaCarousel.attach(".carousel",options),i=0;i<carousels.length;i++)carousels[i].on("before:show",e=>{console.log(e)});var element=document.querySelector("#my-element");element&&element.bulmaCarousel&&element.bulmaCarousel.on("before-show",(function(e){console.log(e)}));

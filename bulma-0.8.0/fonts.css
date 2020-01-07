@@ -1,0 +1,63 @@
+
+/* ---------------------------------------------------------
+   Custom Fonts
+   ---------------------------------------------------------*/
+@font-face {
+    font-family: 'SharpGroteskLight25';
+    font-style: normal;
+    src: url('fonts/181112101108SharpGroteskLight25.eot');
+    src: local('sharpgrotesklight25'), url('fonts/181112101108SharpGroteskLight25.eot') format('embedded-opentype'), url('fonts/181112101108SharpGroteskLight25.woff') format('woff');
+  }
+
+@font-face {
+    font-family: 'SharpGroteskBook25';
+    font-style: normal;
+    src: url('fonts/181112101108SharpGroteskBook25.eot');
+    src: local('sharpgroteskbook25'), url('fonts/181112101108SharpGroteskBook25.eot') format('embedded-opentype'), url('fonts/181112101108SharpGroteskBook25.woff') format('woff');
+  }
+
+@font-face {
+    font-family: 'SharpGroteskLight09';
+    font-style: normal;
+    src: url('fonts/181112101108SharpGroteskLight09.eot');
+    src: local('sharpgrotesklight09'), url('fonts/181112101108SharpGroteskLight09.eot') format('embedded-opentype'), url('fonts/181112101108SharpGroteskLight09.woff') format('woff');
+  }
+        
+@font-face {
+    font-family: 'SharpGroteskBook09';
+    font-style: normal;
+    src: url('fonts/181112101108SharpGroteskBook09.eot');
+    src: local('sharpgroteskbook09'), url('fonts/181112101108SharpGroteskBook09.eot') format('embedded-opentype'), url('fonts/181112101108SharpGroteskBook09.woff') format('woff');
+  }
+
+@font-face {
+    font-family: 'SharpGroteskBook19';
+    font-style: normal;
+    src: url('fonts/181112101108SharpGroteskBook19.eot');
+    src: local('sharpgroteskbook19'), url('fonts/181112101108SharpGroteskBook19.eot') format('embedded-opentype'), url('fonts/181112101108SharpGroteskBook19.woff') format('woff');
+  }
+
+.is-wide-light {
+      font-family: 'SharpGroteskLight25' !important;
+      font-weight: 300 !important;
+    }
+    
+.is-wide {
+        font-family: 'SharpGroteskBook25' !important;
+        font-weight: 500 !important;
+      }
+  
+.is-compressed-light {
+        font-family: 'SharpGroteskLight09' !important;
+        font-weight: 300 !important;
+    }
+
+.is-compressed {
+        font-family: 'SharpGroteskBook09' !important;
+        font-weight: 500 !important;
+    }
+
+.is-middle {
+        font-family: 'SharpGroteskBook19' !important;
+        font-weight: 500 !important;
+    }
