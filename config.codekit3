@@ -113,11 +113,54 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/bulma-0.8.0/images/all-truth-no-bullshit.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/all-truth-no-bullshit.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/bulma-0.8.0/images/arlo.png": {
+		"ft": 32768,
+		"iS": 76901,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/arlo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/bulma-0.8.0/images/Blockchain-for-Gamers 1.png": {
 		"ft": 32768,
 		"iS": 39361,
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/images/Blockchain-for-Gamers 1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/bob.png": {
+		"ft": 32768,
+		"iS": 84785,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/bob.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/brandon.png": {
+		"ft": 32768,
+		"iS": 76823,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/brandon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -135,11 +178,65 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/bulma-0.8.0/images/cameron.png": {
+		"ft": 32768,
+		"iS": 46507,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/cameron.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/bulma-0.8.0/images/Crypto + Salad 1.png": {
 		"ft": 32768,
 		"iS": 75690,
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/images/Crypto + Salad 1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/damon.png": {
+		"ft": 32768,
+		"iS": 72218,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/damon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/daniel.png": {
+		"ft": 32768,
+		"iS": 80793,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/daniel.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/disciplined-not-policed.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/disciplined-not-policed.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/bulma-0.8.0/images/discord.png": {
+		"ft": 32768,
+		"iS": 11759,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/discord.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -157,11 +254,55 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/bulma-0.8.0/images/games.png": {
+		"ft": 32768,
+		"iS": 2743656,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/games.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/bulma-0.8.0/images/home-feature.png": {
 		"ft": 32768,
 		"iS": 450937,
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/images/home-feature.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/jared.png": {
+		"ft": 32768,
+		"iS": 77205,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/jared.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/joshua.png": {
+		"ft": 32768,
+		"iS": 49446,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/joshua.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/kyle.png": {
+		"ft": 32768,
+		"iS": 82355,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/kyle.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -179,6 +320,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/bulma-0.8.0/images/reward-purchase.png": {
+		"ft": 32768,
+		"iS": 478625,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/reward-purchase.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/bulma-0.8.0/images/roadmap.png": {
 		"ft": 32768,
 		"iS": 21023,
@@ -189,6 +341,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/bulma-0.8.0/images/salad-pay-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/salad-pay-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/bulma-0.8.0/images/salad-works.png": {
 		"ft": 32768,
@@ -201,6 +363,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/bulma-0.8.0/images/SaladLockup-BlueBg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/SaladLockup-BlueBg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/bulma-0.8.0/images/SaladLockup-MediumGreenBg.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -211,11 +383,118 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/bulma-0.8.0/images/saladpay-1.png": {
+		"ft": 32768,
+		"iS": 37202,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/saladpay-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/saladpay-2.png": {
+		"ft": 32768,
+		"iS": 48261,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/saladpay-2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/saladpay-3.png": {
+		"ft": 32768,
+		"iS": 21464,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/saladpay-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/saladpay-feature.png": {
+		"ft": 32768,
+		"iS": 389877,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/saladpay-feature.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/saladpay-logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/saladpay-logo-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/bulma-0.8.0/images/saladpay-logotype.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/saladpay-logotype.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/bulma-0.8.0/images/Step up, not on..svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/bulma-0.8.0/images/Step up, not on..svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/bulma-0.8.0/images/tasha.png": {
+		"ft": 32768,
+		"iS": 45897,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/tasha.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/bulma-0.8.0/images/team.png": {
 		"ft": 32768,
 		"iS": 1427652,
 		"oA": 0,
 		"oAP": "/bulma-0.8.0/images/team.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/tim-1.png": {
+		"ft": 32768,
+		"iS": 80793,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/tim-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/bulma-0.8.0/images/tim.png": {
+		"ft": 32768,
+		"iS": 71916,
+		"oA": 0,
+		"oAP": "/bulma-0.8.0/images/tim.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1114,6 +1393,17 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/main-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/main-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/main.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1124,6 +1414,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/pay.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pay.html",
+		"oF": 0
 		},
 	"/README.md": {
 		"cB": 0,

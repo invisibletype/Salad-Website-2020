@@ -4,6 +4,12 @@ $green-light:  hsl(87, 63%, 85%) !default
 $blue-dark:    hsl(206, 67%, 12%) !default
 $text: $blue-dark !default
 
+// What we do
+figure
+    line-height: 0
+
+button
+    border: none
 
 .has-background-green
     background-color: $green
@@ -26,8 +32,6 @@ $text: $blue-dark !default
 .has-background-purple
     background-color: $purple
 
-.navbar
-    background: $green-medium
 
 .is-blue-dark
     color: $blue-dark
@@ -49,3 +53,41 @@ $text: $blue-dark !default
 
 .navbar-item img
     max-height: 3rem
+
+a.navbar-item:focus, 
+a.navbar-item:focus-within, 
+a.navbar-item:hover, 
+a.navbar-item.is-active, 
+.navbar-link:focus, 
+.navbar-link:focus-within, 
+.navbar-link:hover, 
+.navbar-link.is-active
+    background: transparent
+
+.buttons 
+  padding: 1rem
+  position: relative
+  background: linear-gradient(-120deg, rgba(219,241,193,1), rgba(219,241,193,.3), rgba(219,241,193,1) )
+  padding: 2px
+  border-radius: 2px
+    
+  .button
+    margin: 0
+
+.button 
+  background: #222
+  border-radius: 0
+  font-family: SharpGroteskLight25
+  text-transform: uppercase
+  font-size: .75rem
+  letter-spacing: 1px
+
+.button.is-primary:hover
+    background-color: #53a626
+    box-shadow: rgba(10,33,51,.44) 2px 2px 13px -4px
+
+.buttons:last-child
+    margin: 0
+
+.has-shadow
+    box-shadow: 8.57952px 14.2992px 21.4488px rgba(0, 0, 0, 0.45)
